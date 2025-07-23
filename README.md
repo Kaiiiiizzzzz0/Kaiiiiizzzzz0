@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaiiiiizzzzz0
 - 👀 I’m interested in Programming, Art and Video Games
-- 🌱 I’m currently learning Python, HTML, CSS, MySql
+- 🌱 I’m currently studying Python, HTML, CSS, MySql
 
 
 <!---
